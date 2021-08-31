@@ -1,3 +1,7 @@
-## find complete course here   
+A simple Hello World app inspired by the steps from Heroku document "Create a Java Web Application Using Embedded Tomcat"
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+To run locally after cloning the repo,
+
+1. mvn package
+2. sh target/bin/webapp 
+
